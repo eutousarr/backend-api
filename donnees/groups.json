@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "6391d178a91cbb8a24420395"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "numero": 1,
+  "name": "Groupe 1",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670500728017"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670500728017"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6391d253f4dd9fe6a9046a9e"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "numero": 2,
+  "name": "Groupe 2",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670500728022"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670500728022"
+    }
+  }
+}]

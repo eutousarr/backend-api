@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "638cbdaf160fcef374e06e46"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "numero": "14",
+  "name": "MOBILIER ET MATERIEL DE CLASSE",
+  "completed": true,
+  "validedBy": "ibou",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670167983785"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670405794606"
+    }
+  },
+  "code": 241
+},{
+  "_id": {
+    "$oid": "63905e1c2506871ccaf54027"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "numero": "15",
+  "name": "MOBILIER ET MATERIEL DE BUREAU",
+  "completed": true,
+  "validedBy": "ibou",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670405660817"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670408461334"
+    }
+  },
+  "code": 242
+},{
+  "_id": {
+    "$oid": "63905ed82506871ccaf54055"
+  },
+  "user": {
+    "$oid": "637e5bd1f7518e65ebd6aa55"
+  },
+  "numero": "16",
+  "name": "MATERIELS D'ENTRETIEN",
+  "completed": true,
+  "validedBy": "ibou",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670405848519"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670479354477"
+    }
+  },
+  "code": 243
+},{
+  "_id": {
+    "$oid": "63905ee52506871ccaf5405e"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "numero": "17",
+  "name": "MATERIELS PEDAGOGIQUES ET DIDACTIQUES",
+  "completed": true,
+  "validedBy": "ibou",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670405861861"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670479363772"
+    }
+  },
+  "code": 244
+},{
+  "_id": {
+    "$oid": "63905f252506871ccaf54072"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "numero": "19",
+  "name": "MATERIELS A HAUTE VALEUR AJOUTEE",
+  "completed": true,
+  "validedBy": "ibou",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670405925548"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670479370824"
+    }
+  },
+  "code": 245
+},{
+  "_id": {
+    "$oid": "63905f932506871ccaf5409b"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "numero": "18",
+  "name": "MATERIELS ET EQUIPEMENTS SPORTIFS",
+  "completed": false,
+  "validedBy": "Personne",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670406035721"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670406035721"
+    }
+  },
+  "code": 246
+},{
+  "_id": {
+    "$oid": "63905fc22506871ccaf540ae"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "numero": "241",
+  "name": "FOURNITURES DE BUREAU",
+  "completed": false,
+  "validedBy": "ibou",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670406082761"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670406146691"
+    }
+  },
+  "code": 247
+},{
+  "_id": {
+    "$oid": "63905ff82506871ccaf540bb"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "numero": "242",
+  "name": "PRODUITS D'ENTRETIEN",
+  "completed": false,
+  "validedBy": "Personne",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670406136328"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670406136328"
+    }
+  },
+  "code": 248
+},{
+  "_id": {
+    "$oid": "6390602e2506871ccaf540d6"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "numero": "243",
+  "name": "CONSOMMABLES INFORMATIQUES",
+  "completed": false,
+  "validedBy": "Personne",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670406190541"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670406190541"
+    }
+  },
+  "code": 249
+},{
+  "_id": {
+    "$oid": "639060492506871ccaf540e5"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "numero": "244",
+  "name": "CONSOMMABLES PEDAGOGIQUES",
+  "completed": false,
+  "validedBy": "ibou",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670406217955"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670408330513"
+    }
+  },
+  "code": 250
+}]

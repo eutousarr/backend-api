@@ -1,2 +1,472 @@
-20221124	12:58:02	94a41057-3f26-472e-9381-c7cf6e28a60e	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
-20221124	12:59:16	ae2e8a47-7df9-4550-9360-c06324c3467f	Error: secretOrPrivateKey must have a value	POST	/auth	undefined
+20221126	14:04:54	e031f7cb-e931-47c9-981b-5ad70ff0898f	ReferenceError: User is not defined	GET	/matieres	undefined
+20221126	14:14:55	22ac40ce-da85-45ef-8e48-b8a35aadb250	ReferenceError: User is not defined	GET	/matieres	undefined
+20221126	14:19:53	05b3b229-ffa0-4355-8537-dc204c3e3553	Error: Cannot set headers after they are sent to the client	GET	/matieres	undefined
+20221126	14:28:59	97115490-0c37-40c4-99f8-5a90fcc0b873	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:29:15	153e9927-a661-4465-98d1-c4b10994e054	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:29:20	6ee6dbaa-dcfd-4bcb-a963-0501996434f4	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:29:36	d4e16b1b-8320-41cc-825f-b1244101b5f3	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:29:54	a1051498-073c-40f2-a8f0-083acccf0a0e	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:30:11	ef729f7e-fea7-4d92-93b0-bfe71c5ac3a5	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:30:27	614c10d2-cdfc-4d5f-8ae0-c97e7df62e87	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:30:32	dac72675-1fd9-45c8-939e-9a8ae4f44baf	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:30:47	30137da6-9971-4582-a399-cd63e487db29	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:31:02	f9a7cd18-f775-42cd-a3a7-30619b4ecdff	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:31:18	9a7cd8f6-0c3c-475b-9b7e-9d0c1b8edf77	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:31:34	42f6003c-eb64-408b-ad73-eeaec945ae2f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:31:50	0e0137a7-66ca-4cbb-a437-6cf3bab76c0a	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:31:56	e56af64f-50be-4def-a3f5-c31230176210	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:31:56	65f93d84-5f7c-4d05-b565-6a806d6a121c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:32:04	90d18632-1290-4710-86e5-22f61b5c4d82	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:32:19	77ec436e-19da-4580-b6d1-b7a424d86c50	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:32:35	3afd0e9d-c672-4806-848e-cee2763a268f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:32:51	21274a0f-9a62-4737-9cf1-5827995432d3	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:33:07	b46c954a-18a8-46b1-9e0a-db023f45d5bd	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:33:23	49ca26b4-f714-43b1-96bf-4ffb3c5ce2d0	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:33:39	a5ac3868-c063-41dc-8882-71e6ab2ecd2c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:33:55	23cdf04a-031a-4206-822c-8f40d2251f29	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:34:30	080b32dc-0701-4fc6-9664-d655d3db189e	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:34:47	301820b5-c2f4-4887-9960-6954645602cc	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:35:04	3983892d-e5b3-40ef-96a7-d0812d83a488	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:35:21	f643991f-2468-47c4-8841-3f127d1665ec	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:35:38	ba8cc943-c614-4a78-a7d0-6db0c41fe588	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:35:46	ec53237c-c4d3-44b8-808d-3ee675fd4035	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:35:53	89e902dc-7403-4c80-8e12-64df1d48e475	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:36:02	e28ec659-c8fb-43ff-a07f-794494999f77	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:36:09	cca1760d-cbcc-43f8-9a77-807207984ddb	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:36:17	7e170111-e5ca-4ed3-8cd0-90847c0b45fa	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:36:25	0aba32dd-88be-4d1a-9293-0f340176dbd7	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:36:33	063deab3-7be5-43b9-b5e5-fb16cce191c3	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:36:41	6598b82e-b47d-4196-a40e-48505cd363bd	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:36:49	31c43f8d-c11c-4f9a-a1e1-9a411be57841	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:36:57	c79ad13d-ac55-4712-b8d1-fbff8c337f5b	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:37:05	8bd306bd-c88a-474b-826a-bbbe34aeb73d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:37:13	239730c2-f40a-4078-a70c-01b3efe346aa	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:37:21	8c8732db-2feb-47e1-bc11-61acae8d96db	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:37:29	32ea9084-6abb-4f72-9d15-b147bb3b9383	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:37:37	92aeb60b-fb97-41db-ade0-f338ebcde171	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:37:45	6b83a344-9bd2-4295-be13-da493daedc4e	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:37:53	cab02929-6c4b-41d6-a9c2-61be530ba4aa	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:38:01	26ed76d2-2b65-40da-83e4-0c62d576804d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:38:09	906466a4-4883-4015-a4ac-cdaf6e9f7d79	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:38:17	a5f30c26-168b-46e5-8979-0f7160fd6774	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:38:25	30c4dede-c2f3-4389-9368-5b3e89126a3e	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:38:33	39715c9c-aa05-4d9e-939c-8aa655fa5f84	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:38:41	1bdde555-9701-4690-ae6e-a9a47ac85edb	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:38:49	74e30e96-ab48-4f2e-a89f-fe8e4e3ee74f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:38:57	1df76a54-74e7-49be-9972-8b1746a9cd8c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:39:05	cc23d3fc-63a2-4635-9510-25697008c7b6	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:39:13	bafc3aa4-8bdf-409e-b285-89562685978d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:39:21	f5ff069e-85cb-403d-9a24-4c3e6b98efe2	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:39:29	08441834-c34d-4329-b6c1-b724f6004f47	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:39:37	51a3cff0-d4bf-46a8-a320-8859f83597e2	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:39:45	23eb050c-f8fc-4098-b021-d00e89a81dd5	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:39:53	031b4ca5-a087-43a0-988b-70af1ec02332	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:40:01	6a966736-466a-4961-992c-ab244b6a5254	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:40:09	48e3a4ae-55c9-4c12-b11b-562ae4de14e0	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:40:17	172d417b-9b72-4072-9ee1-c986ffdd1494	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:40:25	d12671aa-82a1-4d44-a051-3d362eb92b1a	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:40:25	a8bc5ea0-9d16-4b0d-82f2-4e1884d061ed	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:40:26	a21a1317-0d7f-450f-b9f1-c80f58896e7b	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:40:32	b14c1173-5e57-45ac-b2c2-139c2ba02ce2	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:40:41	7acd4010-ba2f-4cf8-9cfa-02960cd33b15	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:40:47	18a78b39-c0fc-4cc9-b46a-233a6be9c6f1	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:40:50	08c82eb7-b799-4446-a188-87d1ca2c782f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:40:54	224a5de8-3890-4195-9a39-88d86da1a600	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:40:57	eee595dd-d8ad-47b0-85ae-cc7ec7be81be	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:41:10	3b28023c-9395-4fe0-8d98-cf9a0ec238cd	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:41:11	565e736d-27f7-4de7-a51b-61fbce13c00a	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:41:13	51d8d2f2-2711-46e4-999c-3aaa987c6bb0	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:41:27	b6607d37-fb2f-48a8-8b22-0f754275478b	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:41:29	f87c6636-c9a4-4319-8cc1-5731703b68d1	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:41:42	6c44691c-3697-439c-95d9-b080817ef5ae	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:41:45	c10bba9a-c50c-49d3-9c39-976d9d1c1907	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:41:58	e8c7790e-dd3c-4df7-9113-12c9f319e77e	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:42:01	8ae8855d-ce89-4cb0-8022-c4cb96b0cf3f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:42:14	5d868a56-251a-4474-9b76-5ae39c8347c7	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:42:17	59d9235c-cbf9-4b75-a498-1659da0ca7de	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:42:17	31aed9cb-f9bd-499b-ac90-4d748502b45f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:42:18	38d662ed-5b4d-4d44-9275-42361214cb3c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:42:22	6198d1dc-37dd-4952-86b2-192496008081	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:42:32	c3541189-0099-4f9e-8b86-7d543a500471	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:42:38	f4a119e6-9e55-4122-ad98-91c3bd9785ee	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:42:48	7ac204f0-3d6b-4a34-83e0-6dc388fe778c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:42:54	1ee519c3-d702-48e3-a441-c8a755dbae4f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:43:04	0359d06e-826f-47bd-b1a1-44bdfebd2928	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:43:10	59f956a7-a09d-4dc6-8f80-655c3e9d529e	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:43:20	b5bdc870-221c-4952-8e37-20ba59698dff	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:43:26	b99501bc-75f2-4bc4-9822-ccab465e262a	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:43:36	a267963f-bb24-456c-8a8e-fc66039f86d7	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:43:42	803e7f6d-2cae-4298-aff7-153f729eb069	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:43:52	920a17d4-f417-408c-bfbc-4524fff63965	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:43:58	06535273-7b0f-498d-ab18-55c3eb478696	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:44:08	9ebd1ff2-eed3-47bd-82f1-8b3a844779a1	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:44:14	e5bf0ded-5271-4391-ade5-e6fcbd41ef8c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:44:24	290e9888-9f7a-4f44-ad79-7c5a68e76663	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:44:30	961265cd-8695-4c7e-a0fe-a66b9015f2ba	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:44:46	16945477-7301-41be-b400-8cf73d7ce6dc	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:45:02	6cf6a22d-5d77-4b29-93e5-fa0a0b9983b8	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:45:18	f24c268c-deb3-464b-b841-d504bc2f1127	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:45:34	fcf2f6ff-7c5d-450f-b6fc-f283d2460ff0	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:45:50	c0b3c8c7-7eea-493d-9205-d37b8e42ad82	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:45:55	4c8da5a0-5cd7-43cc-bebd-1078d022a3d8	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:46:11	8f27c5c6-3b57-47c2-b795-b6a7677b7715	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:46:27	6bc11d27-dee9-41a1-8d20-52986be6d088	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:46:43	a3471cca-1d43-49ab-86a1-17d080769014	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:46:59	baf37818-d32c-4aa6-b066-df0b9dbdbf81	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:47:02	39feef47-495f-4ed7-88c3-fb28a08bef20	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:47:03	49032e0c-976e-4c1f-98d9-8ed5ce945d40	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:47:19	18ef7fd1-495c-446c-aa9d-bd5a8a27c441	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:47:35	98c4a0d1-eb4d-41eb-8c37-5f72e026a9a1	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:47:51	4f4eb448-aaa4-4a75-b366-cee982789fb3	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:48:07	1d24aa03-2b36-488e-a2af-bafb2ccc2f79	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:48:23	94acc476-4134-454e-97b8-76943965170f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:48:39	ef79cf87-007f-4982-9fcb-6ade09dd6273	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:48:55	3d7215b6-a7db-47e4-85d2-c2155796f8e7	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:49:11	3358dfb2-8c9c-42d0-8b18-77a8396ec5b1	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:49:27	7d446374-2bba-4aad-b7d4-830c72e9b62c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:49:43	a6268c29-e37f-4af3-a0ea-33e53a2301ac	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:49:59	c10933ac-93a1-4b00-9ada-c0d72cd71433	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:50:15	9f47ac6b-1eff-44dc-8304-c901e0d5c4c2	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:50:31	cd2eac0c-8da0-4dc2-89fa-92bf9f97e10c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:50:47	89d9ca90-e286-470c-aea0-8e1cb7970999	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:51:03	99d4a3df-caaa-491a-8a8f-2f367ad8a4ae	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:51:19	5dab0bfc-821b-4c08-92ec-2f9780b3b306	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:51:35	429d7762-b27f-4272-858e-0206e4a152a5	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:51:51	1561c249-e85f-49ab-be02-d9c642045ad5	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:52:07	8d6afe67-6f86-43ab-8e49-02a65cac3831	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:52:23	3120b4bf-1d06-4552-868e-8d4ce045f456	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:52:39	978c0a0c-8936-4135-964e-53aaef1b836f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:52:55	be7b96e6-f08a-4abe-832c-eeeb68f96194	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:53:11	0f093773-cc63-4f97-985c-271f4a3734a3	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:53:27	7d06918b-8c7c-4742-abd1-f52352bfc03e	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:53:43	488f55e2-117f-4a62-bba4-3f42a18518b9	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:53:59	be29ca96-b899-4c06-96c2-c2cbb6d9c137	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:54:15	7d3474fe-46b4-40fe-9b06-8bcd2bceddf3	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:54:31	5d8cf8d4-8236-42f4-a57e-4ee9c90f6d8c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:54:47	8fc2155b-38c6-4f78-a950-021fd3e571ab	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:55:03	605cb2b7-ee05-4731-a46f-d76112bf4de6	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:55:19	22ca1f6b-08fe-4298-b436-3ac91f893c05	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:55:35	1b70fc33-e089-4dcd-8ded-62a0266c7bc6	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:55:51	30b0d3fd-c342-4a02-b244-bbcb3d7089a8	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:56:07	ce5aaa0b-8c54-423a-a30b-cb3de4ee48e4	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:56:23	eb5d25e5-92ea-42c7-8c34-8e3d45dd3748	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:56:39	a66cc125-8fc1-4036-b1fe-d092808c8570	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:56:55	5e56fb18-8ddf-4300-98f1-a8a772a0d8f5	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:57:08	215bdd01-fb52-4106-9205-5cc646aa8d71	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:57:09	2e721a4e-7ff4-4b47-8b5e-f6a1104f5f03	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:57:25	4c87d588-2907-424c-93f0-c329bbfbb003	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:57:41	4a01f98d-f0f0-4757-b06c-f026ecd35378	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:57:57	6e1dfeb9-1eac-48fb-95c5-fe3346e8b4ab	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:58:13	fe3322bc-b833-45f6-a98d-97ab76a2ef48	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:58:29	2fe369b3-d939-42ae-9c42-3c409b8a0bf8	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:58:45	eb88f0be-64f8-46e9-bbae-8fb7e115f823	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:59:01	a8411092-59a3-486c-92d0-c2bd4fe30015	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:59:28	add3e8a3-db7b-4c40-a938-97d03d71177a	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:59:44	4dac9bca-98b3-4e56-b8fa-332abaa32378	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	14:59:58	8b63f51a-3a3d-4526-9eb6-5835059794cc	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:00:14	0822f853-d30c-429f-9e7c-d06403b8eaab	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:16:24	93cab174-2737-4d17-8d1e-d7e9ccd0168a	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:16:39	e6b2929f-2017-4acd-946c-d5b0757f48d1	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:16:55	a82c8f83-3f7a-45a7-8d96-a0374285af5d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:17:10	cabce36f-03b7-42aa-9aa2-836298570c7d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:17:25	b0fe7cbe-0ec6-4142-8141-31a0f159047c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:17:40	4ab9e352-e978-4767-b0e1-5286086dda87	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:17:56	d8a332c8-8fc8-4364-bcbe-e52df4854b85	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:18:11	d0662c79-e255-4759-b2ff-4b7c606176fc	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:18:26	86cef241-431e-4d49-802b-d006a52f4f31	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:18:42	a0c134e8-8c03-4864-ac87-aa4be6aa8d4b	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:18:57	d9faee4c-e691-49fb-9dc5-d191fafbdc64	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:19:12	d321bf40-f55c-47dd-bf49-b62c30c6a2f0	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:19:27	0902a1c1-ccde-4ee7-89d2-4d10f81c0ed7	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:19:43	cfaacebd-1426-4dbe-a8c3-fbc358b248d5	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:19:58	13363989-a6c0-40cd-8841-7f7073d3821f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:20:13	c480cc14-3f02-4b37-8142-30c35161528a	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:20:29	b7839ac3-3ecf-49ad-92cf-8f75ce1910b0	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:20:44	4e9efac6-a517-46cf-834e-bf989e870465	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:20:59	8ea39fac-066c-4d73-a524-1d40f40f24da	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:21:14	9308e9d3-521f-478e-9b14-0fe7ed9a8773	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:21:30	806293b1-47b2-46af-9068-e2fc63540b41	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:21:46	c295f8f3-a9ec-4e1c-b124-947cda7aca0d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:21:53	09af112b-80bd-4fab-b98d-0d2215159149	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:21:57	72f838d3-6aa1-4d6f-ab00-6b4d67b36b74	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:22:08	f9ee5424-100b-417f-b2cb-6419fb998fdf	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:22:09	b510d855-e877-4efe-8f45-201d8566bcc2	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:22:24	03ab3091-5418-4dd7-b748-16cd313ed5be	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:22:40	5da0accc-9482-4790-9bd7-169366838be2	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:22:56	389a164d-202c-485d-88d1-bf48544e051f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:23:12	9074c1a0-03fd-4cbf-8b6e-5efd2d3ca2a2	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:23:28	5401a355-bafc-40e8-82af-3f806052fe90	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:23:44	788fc1e1-de90-43b2-addf-b5410e53f010	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:24:00	a3436446-230b-4211-928b-de754d411ff2	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:24:16	ffb132e9-1215-4fde-976b-518d65e07fff	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:24:32	d4ada72c-7363-4826-8868-94b1111bd721	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:24:48	eeb4678a-e496-4780-8886-6a69089dfbdb	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:25:04	bafed6e0-9ebd-42a8-be95-1edcdea30d97	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:25:20	b6fdee16-4c42-48ed-93c9-c3070f28a871	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:25:36	a9c996f5-bb77-40e7-a033-5453ad59834f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:25:52	480a25b4-d9d1-40e1-b540-8d31a4d0d5bb	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:26:08	bb1598cc-9707-4ae6-8eac-c5b97ac4f5eb	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:26:24	5e5b238c-f163-4513-b9fa-1af4c5de2337	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:26:40	86760b3c-72bf-4a77-81f6-ca6fc694089a	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:26:56	dc2a757f-cca4-4558-8d2f-a070d11582d8	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:27:12	5093cb8f-da25-469b-bc4b-d75eab0a00de	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:27:28	392c40a5-cfe3-48aa-b221-cce42eca1bcd	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:27:44	0df1abb4-9368-4dcb-b0be-784b76049353	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:28:00	65562b95-41f5-45e2-a672-804d1eb46ebf	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:28:16	66e096cc-738b-4e47-af52-bc06078d3efe	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:28:32	00401ddf-d88d-4889-a9e6-9cea25ccd5dd	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:28:48	f37e433d-1839-482b-a241-aec7d8f1b80e	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:29:04	744d8cea-f28f-43aa-8015-157f0152641b	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:29:20	7e4f1559-8cf1-48fc-b29d-3933975f247b	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:29:36	152f98f3-7d70-4ec6-ab93-eb8c7bf763f5	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:29:52	bd22254c-4ba6-4277-8133-43d0dfb55539	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:30:08	f9a4bcd7-bbf5-486b-b112-69ae67317235	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:30:24	2473c982-6d9e-4299-b91e-57940a13a20b	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:30:40	78ee7f8f-7dfe-4f2e-9599-1a97eff66014	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:30:56	2ea2933a-987e-43a3-9f36-e4b00124e87b	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:31:12	8a08e68f-fa39-472b-85a6-aa97eaa8e711	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:31:28	1d4e4dd2-6c0a-410f-9922-5cf8dbd26f47	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:31:44	82daf580-9162-4dcf-8822-1a9c66add994	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:32:00	9496d9a4-ca3d-4dab-bb7a-e5169129c471	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:32:17	4c6cd486-ebc6-402d-9411-85f250f048c3	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:32:32	ece756c0-46cb-4e23-aff9-cf15915a0c47	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:32:48	32757721-79fa-49ce-8946-e320c029280c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:33:04	664bee97-f923-49e4-ae5f-b185bb152c54	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:33:20	6190fd36-3efc-4257-96f6-29ab8a2120a0	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:33:36	b6f2ea2d-e125-4959-9664-7223e69ec182	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:33:52	382bb453-2ca1-4403-b8ba-054059a98aff	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:34:08	455c201d-2982-46b6-98f9-9d1fb5333fbc	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:34:24	e837cc40-97da-40ae-80d5-fd6357276998	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:34:40	1666c4d1-672f-4254-8cbf-62234a24ef6d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:34:56	da964485-66d8-4ca3-b5fb-5e66373e8e80	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:35:12	22936630-8a25-4ab3-a0cd-f00e3941440d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:35:28	8e08f610-bb92-4467-bcdb-231dffba7b4c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:35:44	80842fa5-b497-42fe-88da-dd7bd189a8a3	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:36:00	797ac4d6-8d25-4275-af96-ce2a937b681d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:36:17	9da4dc04-9bc4-43a1-b57e-c78b7ec1c8d9	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:36:33	057639f6-1144-4ce4-ab04-54a3d50f29f9	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:36:49	9df35722-c555-40c4-8c3c-44384dfc911a	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:37:05	1ba0d13f-d2fb-42f4-9f5f-59f119006442	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:37:21	2e33759c-7a24-4acc-965c-9ff6cb8127ac	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:37:37	a1ed25dc-d9ad-46bf-a61f-e696f9da7a8e	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:37:53	2c578029-a5bc-4d90-b23e-b5d5909e8320	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:38:09	dc3fac0e-f98f-42b7-82c1-135d492ab510	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:38:25	6de54c27-5a5f-4f89-b6c9-49130d30682a	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:38:41	86eb3b7d-0ed1-4a0a-803d-c37deb319698	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:38:57	bbf04803-81ff-4ef3-bc09-4722e8f6c281	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:39:13	cc22381b-c88a-433d-ad38-246e8c881107	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:39:30	2f1940f4-a9d4-4e9e-a8bd-b9b9a31ef831	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:39:47	5b01fa74-7d41-47f8-8c14-f86fa83e3d9c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:40:02	04bfe15b-d4ac-47e6-973f-1ea4a62a2492	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:40:18	5a2ff1f2-b263-469b-a378-c4fbfc73f28f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:40:34	abdcf6f8-f182-4094-b952-5054757d48e6	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:40:50	c562ceb8-2b7f-4e0a-9876-133455a237c0	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:41:06	9d9cc50f-8817-419c-bc11-2eebf44a2906	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:41:22	ed9d03de-8f5d-4cc2-8e0a-a7fb7762be31	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:41:38	e481c33b-a604-4fa9-9598-d842b5cde853	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:41:54	ea1203b5-b1fb-4fd4-825c-7f6d9e3839bf	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:42:10	66d2d51c-d4c3-4fd6-868a-fef156b8d323	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:42:26	b4218e24-63c5-4774-9d79-edafdb588c59	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:42:42	1085f308-a58e-4895-8998-b1a5c6568a75	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:42:58	198a49b4-422b-4d23-95da-2838a2125ab5	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:43:14	1dc6eb78-6303-4dce-ae7f-a6f4b9dd9fd9	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:43:30	aa41ce74-575d-443d-af0a-0847fb422363	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:43:46	14179cd3-87b5-42c3-b71d-ddd5b6af7878	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:44:02	64283a7b-3dab-4396-96cc-66a0f9f8639b	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:44:18	8b742c22-1f43-4958-9732-7bc04d4678b4	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:44:34	0ed3f6e0-3069-481f-95cf-6aaa6766918b	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:44:50	154952e0-2dcc-42f8-a590-43b3d0f03574	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:45:06	fd07466c-9ff2-4841-b850-3cdb98824130	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:45:24	e04ba8a6-9742-4c3d-8830-65a3dfe1559f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:45:41	4da8f8ac-9aea-4463-a591-4f46972510bd	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:46:02	5e540f44-eb82-4d56-84e7-5e1c4aa4b294	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:46:18	e8508396-8d37-466f-b718-c7ff8d9815be	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:46:35	405c4a53-463d-466b-b47c-969fc3c6a6a2	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:46:52	b96c9531-fc38-4589-a54d-6ac6dcd8c109	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:47:08	780f7fb4-58b4-48d9-8ef2-c36477c0bff8	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:47:24	3417b1fa-0d19-4676-88fc-8446a8dddaf3	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:47:40	9a92794a-54c0-4463-a689-0b26139452ec	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:47:56	9813d81e-c1d1-4cab-a914-3e9d4dba1e0a	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:48:12	70c06846-d222-4881-be16-5d125097170e	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:48:28	023f7a59-4c69-42cd-89a5-ef4c8834fc95	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:48:44	b62e4478-89b6-4af5-8a9d-2c6a23f3b6d3	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:49:00	0cdce87c-0989-4792-8c4f-70e5254c58d0	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:53:00	56e45be7-1167-4aa2-8d02-9baa56a0ef58	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:53:15	2019932d-f036-4531-a5c0-ce35660d4d26	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	15:53:31	99d8f094-d5f6-4ad1-b33a-403fb9746caf	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:02:36	37705ac1-e7ce-4b21-8513-188c206282a2	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:02:52	6adc0e80-1039-4899-82f0-dd64253b71fc	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:03:08	7261934a-2b5a-44fb-ba05-e00eeaff4b33	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:03:24	a7d29ebb-8aa8-4171-860d-c1e587233a79	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:03:25	7f23d385-4f23-4e2d-bc1c-e9de5b50d55b	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:07:38	c8030a93-6af9-4923-ae06-ddd34358f91a	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:07:53	59ea41b6-27c1-4d52-a286-b5d90c7bb203	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:08:09	e7a14d05-5e7a-4f0c-bdad-71cdec257a2d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:08:24	67f6056e-96e7-4ff9-9f30-d7ac7f3ba701	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:08:39	6a88c718-cdaa-44bf-9449-181ab9823b83	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:08:55	e59f2559-1dff-4d5c-b6bb-19dc6e850333	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:09:10	eee9e8ce-8bc3-4518-98bd-899cde9551bd	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:09:25	e7b1213c-5bc4-44b3-8ed5-f898bceee54e	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:09:40	e132253d-11bf-4139-b696-c38bdb9fab4b	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:09:56	5738be9f-7253-4a74-a2ee-0e7903cbc678	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:10:17	76f14ffe-637c-440a-8810-064c76ab3b70	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:10:33	c1987f0f-085d-4563-a212-30b3faf669bb	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:10:49	b9c68682-a78d-4395-8d09-99d4ab4024c4	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:11:05	c5c5bc85-a9c0-4b1f-ad3f-0d30fe50062d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:11:22	8054a6be-8fe1-4a1b-965a-6501822a9dc9	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:11:38	a5521550-bb8a-47db-a948-5813ad7f25b1	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:11:54	a90bf100-6b80-44ea-9b96-3b443664456e	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:12:10	d6128c0c-f928-4014-8188-46a98bf24f99	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:12:27	3f3565dc-a05a-486c-9376-d6fe07849b3f	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:12:44	2da83c6e-d493-4c7a-8c86-e959dc26beb8	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:13:02	077bb76f-e45d-439b-9c7c-8207f77fb6d9	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:13:17	1fca2f9d-ad4a-4b8b-8aa1-fe6275541aeb	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:13:34	a876bcd5-b547-4ee8-9b46-b8c534bec1c6	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:13:50	dca346c9-f932-4306-80ff-b12bff7556a2	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:14:06	e7a9ce2f-ff1b-4255-995e-e8bff4b06acf	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:14:23	dcbd702f-3c14-4d80-a03f-359ffcb9991d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:15:33	9f7e9562-bfbf-4a0f-96c2-625761053dd4	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:15:49	9bbf683c-b595-402b-a703-56079ea5c7c6	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:16:08	c3618873-4596-4399-9642-90102c60caa4	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:16:28	5e729c35-fe2b-4a04-baa1-76d38711e0f2	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:16:44	2eed2295-58ce-4742-b517-ded15a65f11d	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:17:04	8925b8f4-97af-437f-aa91-47bf8ae0179c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:17:20	9fb3fd20-5c4a-4475-a942-62bdf0896cbe	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:17:37	8b66cdf9-1b39-4079-b5f1-e98319dfc651	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:17:54	58248ee0-601f-4f09-b37c-c87c4f3f2a8c	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:18:10	3a5e911b-c029-4223-be63-37285c3484fe	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:18:13	0a72987f-d0a3-4119-ba9e-179929444dd3	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:18:29	bbfb39a3-e5a6-4db0-b07b-1d2f5d79b3bf	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:18:45	7e0b30d4-91f6-457e-9600-d97f103cd5d7	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:19:37	e3ccd7b2-3de1-43d3-bf43-72eeee8ec911	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:19:43	f094e061-ccc4-4e6f-8645-598703f86704	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:19:46	f7151fc3-e90c-4d72-8e11-aa3ebb915347	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:20:01	07dcfd76-de80-4275-a38b-9feeb3e1aa55	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:20:08	71ced55b-5fed-4d60-80ad-a09652cc9ed5	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:20:12	67946c99-51ff-4103-baac-c57c877255d6	Error: Cannot set headers after they are sent to the client	GET	/matieres	http://localhost:3000
+20221126	16:34:06	307fb402-e481-4cf8-9a29-412ed54e8545	ReferenceError: Category is not defined	GET	/matieres	http://localhost:3000
+20221126	16:34:21	ee83ebf6-b35f-4840-b5fd-78a616d272e1	ReferenceError: Category is not defined	GET	/matieres	http://localhost:3000
+20221126	16:34:36	cf003827-2ebd-4354-aee1-5134dee5350e	ReferenceError: Category is not defined	GET	/matieres	http://localhost:3000
+20221126	16:34:49	09ea4b83-bfb6-4619-ad98-f68397379d8d	ReferenceError: Category is not defined	GET	/matieres	http://localhost:3000
+20221126	16:35:04	700d34b0-079f-42e1-b3fa-eb91b4a5b73c	ReferenceError: Category is not defined	GET	/matieres	http://localhost:3000
+20221126	22:16:02	4497c306-a7c5-413a-ad38-26df12a676a0	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:16:12	efa8f4cb-7ab4-45b7-bcb7-5c3259d288c7	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:16:15	5a3abd4d-cf5f-4594-b577-1fee2aee9d28	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:16:30	19859316-7f4b-40d6-b442-ac9fe7d1b088	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:16:45	95cd2d03-64c4-4417-818e-70566ce04733	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:17:01	e6963f46-f789-4e23-8519-2d9a3d885bb1	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:17:17	3534a139-66cb-4423-bb47-0b5dbfa4daed	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:17:33	d8bf8a84-a4d1-4349-bacc-5e632d84c9c2	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:17:49	bdc75943-53f3-4baa-ae18-b0852a6299ad	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:18:05	9e054adf-c7f3-4fa5-8745-1288f45634bb	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:18:21	24409c65-3c7e-40aa-8192-b9c643ef06c3	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:18:37	b94327c3-964a-4686-907a-22b8814d5734	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:18:53	a40d798a-bc5c-44d1-85d6-98e5e9846932	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:19:09	2937c291-29b8-4eb4-8909-95851682f93e	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:20:25	bc277a4a-86b2-45d8-8ccd-b6e0f062ded6	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:20:35	95234fd7-46bf-4983-aeec-30eda354562b	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:20:39	935f7b78-38e8-4eee-ab4a-6d249fd5e14f	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:20:46	51b0481f-c21e-42bb-a5ec-91d1de61dbf3	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:21:05	e0583d94-d52f-4736-94b0-ef0762ba8ff1	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:21:29	6da20d6a-192e-437a-bc14-00847af5d012	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:21:53	93024ad8-e198-4d6f-b675-8ff4beda8048	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:22:10	28caf30a-dbc1-49f4-b0a5-232b008beb10	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:22:26	2ac3ea8a-202a-4896-8d2a-7c23e2449229	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221126	22:22:42	64274059-00cc-49e6-a90a-cfb767422a44	ReferenceError: User is not defined	GET	/categories	http://localhost:3000
+20221127	22:33:25	fba86cc7-6a8b-4028-b829-86e611c28637	ValidationError: Category validation failed: user: Path `user` is required.	POST	/categories	http://localhost:3000
+20221127	22:47:07	3546dd8d-0498-4cd6-8ea5-3878ebeb9562	ValidationError: Category validation failed: user: Path `user` is required.	POST	/categories	http://localhost:3000
+20221127	22:56:11	f8d78f09-6031-40c4-8f60-1a1d3669a2e3	ValidationError: Category validation failed: user: Path `user` is required.	POST	/categories	http://localhost:3000
+20221127	23:00:40	d01e2b52-e21e-4045-903d-1d4dfce088b8	ValidationError: Category validation failed: user: Path `user` is required.	POST	/categories	http://localhost:3000
+20221127	23:06:34	8eb44219-1c28-4044-a65a-763df2bc3ed3	ValidationError: Category validation failed: user: Path `user` is required.	POST	/categories	http://localhost:3000
+20221127	23:13:11	ac6185ee-f7a4-44e5-b7f7-bc1267511863	ValidationError: Category validation failed: user: Path `user` is required.	POST	/categories	http://localhost:3000
+20221127	23:22:24	3db73307-7a28-4890-8644-4a013b70743a	ValidationError: Category validation failed: user: Path `user` is required.	POST	/categories	http://localhost:3000
+20221127	23:44:10	84117402-a7ef-4259-bebc-445c1de862a9	ValidationError: Category validation failed: user: Path `user` is required.	PATCH	/categories	http://localhost:3000
+20221127	23:44:29	a5b0d837-38c4-493a-a934-e46e91efcc13	ValidationError: Category validation failed: user: Path `user` is required.	PATCH	/categories	http://localhost:3000
+20221127	23:49:07	6e966454-ff9e-4e01-a3bb-9ef7b5c4a71e	ValidationError: Category validation failed: user: Path `user` is required.	PATCH	/categories	http://localhost:3000
+20221127	23:50:00	3f446abe-8bde-40af-bc92-d5ca02606aff	ValidationError: Category validation failed: user: Path `user` is required.	PATCH	/categories	http://localhost:3000
+20221127	23:50:18	2bffea82-2ab2-4fe4-a7c0-6a16aa38284a	ValidationError: Category validation failed: user: Path `user` is required.	PATCH	/categories	http://localhost:3000
+20221127	23:50:44	312cc875-6074-442d-a31f-64c11c48bb79	ValidationError: Category validation failed: user: Path `user` is required.	PATCH	/categories	http://localhost:3000
+20221127	23:52:07	5b352643-18e9-4ce3-a5f6-6e8d29cbde58	ValidationError: Category validation failed: user: Path `user` is required.	PATCH	/categories	http://localhost:3000
+20221128	00:36:41	b0dbdb7d-c61a-4495-a40d-feea4342807e	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:37:34	68b0041b-b58e-4b6b-a34d-6449c1019387	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:38:48	46b1558b-ff15-4eb0-a9f7-8c9b0e6de915	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:41:21	1960ebc4-5d7b-47ca-866d-57cd47ee270f	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:41:36	7d3da24c-c4b9-44c2-b517-73feeca93340	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:41:46	a2b857e0-aa9f-481e-b469-ada491c9ab20	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:41:54	703ba98f-fa40-4dee-90b6-9223099a365a	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:43:38	f352f60e-2c2c-4e3b-9024-9323aadf68c5	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:44:02	3a4a869a-079f-4b76-9ccd-84a482a04297	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:44:14	40701702-bd75-4e4b-b073-a30cc8fe1a33	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:44:22	51767ed4-c342-4b32-8ad4-bb597e6de587	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:46:00	70b041c7-6ea3-4f4f-a807-b61846585d29	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:46:35	3463fcf8-8c2c-4306-9e05-5cc7c5d41b40	ValidationError: Category validation failed: completed: Cast to Boolean failed for value "on" (type string) at path "completed" because of "CastError"	PATCH	/categories	http://localhost:3000
+20221128	00:57:08	a1d52f0d-e476-47e1-9fa8-876c25201faf	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	00:57:14	20ab2a02-8978-42c3-b5cb-c562cf3aff6d	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	00:57:18	5d26e38f-ef7b-4183-ac6f-b43db12c36fa	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	00:57:30	4c10510c-0ff6-413d-baca-088f895ef5eb	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	00:57:39	9cf72cd9-31b5-4861-bc95-cc7ee3a102fe	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:02:43	9123d372-4098-4e6d-8b8c-0755efe4bff1	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:02:48	9d30619a-cc46-4a1d-b883-3c01ce8a24aa	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:03:03	4e9096f9-6432-49cf-8ac0-dad4622a6e41	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:03:19	9dabc071-0ba3-4d48-82f1-2ab437c7b0c0	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:03:35	74f022d4-71c4-4d16-a0e7-5ec134d4c33f	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:03:51	31a386ad-8c2e-49e4-bd45-7665ae16de5e	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:04:07	19686d87-1e74-4c6e-9dc9-552264ae392f	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:04:23	46ff90a7-f1b3-4db0-ae97-10fbf30fa754	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:05:01	461c263f-881f-49d8-8089-f9ef7cdcb1d4	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:05:17	d9d16195-05d0-4d63-96b0-45794151cd5a	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:05:33	97c0e66a-b7de-4c4e-bad9-eaece2cbea2c	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:05:49	f5e58093-14ec-44de-bacc-3813d0544b39	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:06:05	f161a37a-6110-487b-b0cf-84945509b37c	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:06:21	9a259461-7c7c-408c-bf73-ecd5f40ce5fd	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:06:37	a617da50-5a00-4522-8953-4de896a819a8	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:06:44	b26b206f-bcd2-4cca-ae60-5694b47b50d8	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:07:00	1c335aef-7950-46e2-bd7d-bbd0d634a91d	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:07:16	dc833da0-9cc2-46b2-b6ef-5223a11ac540	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:07:32	02e1e127-04ec-492f-9b1e-8b5578cd115e	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:07:48	c48a6298-3633-45c3-bfd6-5170b28984d7	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:08:04	e751b59a-0947-46d4-985a-c324efe3f885	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:08:20	d85f86e8-c961-4549-8317-c26f753223dd	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:08:36	89acd2ba-2208-4d2c-b0a1-718e9b8492e1	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:08:52	398f94ee-d82e-4164-9b9b-53952e38ab97	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:09:08	0afd8ba5-7c39-46bb-9acd-14db4c3ef23b	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:09:24	d6b810ef-6f30-4f59-9e58-a3d884585a9b	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	01:09:40	aa3a9ec3-64a0-4b4c-8a4c-0eec6e8a3c96	TypeError: Cannot read properties of null (reading 'name')	GET	/matieres	http://localhost:3000
+20221128	03:13:12	5aec7d17-6a4c-4c73-af1c-6821d2148ab2	ValidationError: Matiere validation failed: user: Path `user` is required.	POST	/matieres	http://localhost:3000
+20221128	03:16:34	20f48ade-d3d9-4192-a117-40d844fa041a	ValidationError: Matiere validation failed: user: Path `user` is required.	POST	/matieres	http://localhost:3000
+20221128	03:20:43	26fa3d1c-221d-44a7-90db-9b1ac5301ed8	ValidationError: Matiere validation failed: user: Path `user` is required.	POST	/matieres	http://localhost:3000
+20221128	03:32:44	222d6c96-0772-4d45-ae9e-17d20fdd2b54	ValidationError: Matiere validation failed: user: Path `user` is required.	POST	/matieres	http://localhost:3000
+20221128	03:38:15	2e229096-b6fd-4b2b-b24f-3c5fae7a9cc3	ValidationError: Matiere validation failed: user: Path `user` is required.	POST	/matieres	http://localhost:3000
+20221206	19:22:07	ff037319-3913-435f-b3a1-4513e1b1f474	TypeError: response.status is not a function	GET	/groups/638cc4f9912a7ebc561cda7a	undefined
+20221206	19:22:46	7a7860d0-7404-40ff-930f-386553a460a6	TypeError: response.json is not a function	GET	/groups/638cc4f9912a7ebc561cda7a	undefined
+20221206	20:35:49	47ce33b3-059e-4179-b5c3-54d6261d9838	CastError: Cast to ObjectId failed for value "$" (type string) at path "_id" for model "Group"	GET	/groups/$	undefined
+20221206	20:35:49	44c9d15a-d996-4d2e-92e9-c27a279996d0	CastError: Cast to ObjectId failed for value "$" (type string) at path "_id" for model "Group"	GET	/groups/$	undefined
+20221208	11:47:24	f1891e67-f774-468c-8d0f-95f0f18ca364	ValidationError: Group validation failed: numero: Path `numero` is required.	POST	/groups/	undefined
+20221208	12:08:09	1e3822d2-feab-4f53-b162-c9b826fddde9	TypeError: Cannot read properties of null (reading 'username')	GET	/notes	http://localhost:3000
+20221208	12:09:29	43796f5d-c81b-40fd-8d8a-d71f5d1e49a4	TypeError: Cannot read properties of null (reading 'username')	GET	/notes	http://localhost:3000
+20221208	12:09:35	e02ed963-9eb4-4c79-8472-8c0c099c9632	TypeError: Cannot read properties of null (reading 'username')	GET	/matieres	http://localhost:3000
+20221208	12:09:49	ad986b43-99a0-44dc-9a5e-1919e210fa8e	TypeError: Cannot read properties of null (reading 'username')	GET	/categories	http://localhost:3000
+20221208	12:10:04	c96f3d55-da4b-4f2f-bdee-085f4044da22	TypeError: Cannot read properties of null (reading 'username')	GET	/categories	http://localhost:3000
+20221208	12:10:04	8d5395dd-2677-4875-9bd8-b1566b2a43b4	TypeError: Cannot read properties of null (reading 'username')	GET	/matieres	http://localhost:3000
+20221208	12:10:06	b8f0ba22-64f9-4591-9f67-e44881a90225	TypeError: Cannot read properties of null (reading 'username')	GET	/categories	http://localhost:3000
+20221208	12:10:23	b28b4731-a3ed-4b7a-a63e-e47d6b2cca33	TypeError: Cannot read properties of null (reading 'username')	GET	/matieres	http://localhost:3000
+20221208	12:12:54	a21204f9-a0f4-4518-88b1-bf05a35b4e09	TypeError: Cannot read properties of null (reading 'numero')	GET	/matieres	http://localhost:3000
+20221208	12:15:25	74fb8264-fb4b-4c9c-85e3-231414c3d3e3	TypeError: Cannot read properties of null (reading 'numero')	GET	/matieres	http://localhost:3000
+20221208	12:17:56	5f4f1a4b-e026-4856-bbc6-1c15b84c1afb	TypeError: Cannot read properties of null (reading 'numero')	GET	/matieres	http://localhost:3000
+20221208	12:18:51	58a48419-9700-42f0-a24f-6136e70cff21	TypeError: Cannot read properties of null (reading 'numero')	GET	/matieres	http://localhost:3000
+20221208	12:18:53	946ecb66-9fed-4ffe-92d3-df1c8e721c2f	TypeError: Cannot read properties of null (reading 'username')	GET	/categories	http://localhost:3000
+20221208	12:18:58	88529cd3-9922-473b-87de-51cd5097c465	TypeError: Cannot read properties of null (reading 'username')	GET	/categories	http://localhost:3000
+20221208	12:19:36	51b17176-b4a6-46dc-aa9f-a3a509a62f2a	TypeError: Cannot read properties of null (reading 'numero')	GET	/matieres	http://localhost:3000
+20221208	12:19:44	7d344447-6db5-45a4-bf94-8fad90063956	TypeError: Cannot read properties of null (reading 'username')	GET	/categories	http://localhost:3000
+20221208	12:19:55	ef1a6bfe-2cfd-4bf2-8068-5424a7087512	TypeError: Cannot read properties of null (reading 'numero')	GET	/matieres	http://localhost:3000
+20221208	12:19:57	def54061-db13-45e9-9585-81307a10ca55	TypeError: Cannot read properties of null (reading 'username')	GET	/categories	http://localhost:3000
+20221208	12:20:13	b7fdf792-51eb-4e32-8437-46ab17c0f9d5	TypeError: Cannot read properties of null (reading 'username')	GET	/categories	http://localhost:3000
+20221208	12:20:29	a455198a-f1fd-4269-95bb-b752a3fece62	TypeError: Cannot read properties of null (reading 'username')	GET	/categories	http://localhost:3000
+20221208	12:21:00	71a2032a-0133-42ef-bbf8-4b0b5edcba72	TypeError: Cannot read properties of null (reading 'username')	GET	/categories	http://localhost:3000
+20221208	12:21:20	acf66175-fee1-45a1-8906-f3c746d526bc	TypeError: Cannot read properties of null (reading 'username')	GET	/categories	http://localhost:3000
+20221208	13:58:55	95b18cfe-3b67-4d86-b72e-9625026e672d	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/	http://localhost:3000
+20221208	13:58:59	aa1665c8-8c16-4977-9e8d-88ad21595ce8	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/	http://localhost:3000
+20221208	13:58:59	d6e57adb-89b3-4191-9469-1c0fa94b6654	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/	http://localhost:3000
+20221208	13:59:00	f28134c1-120b-40dd-8c57-7a16afd9fef5	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/	http://localhost:3000
+20221208	13:59:01	c48b61f4-a110-475e-beeb-88af14383829	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/	http://localhost:3000
+20221208	13:59:14	d36f6f09-973e-4557-a7a9-586e73a31d26	Too Many Requests: Too many login attempts from this IP, please try again after a 60 second pause	POST	/	http://localhost:3000

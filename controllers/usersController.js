@@ -52,6 +52,20 @@ const createNewUser = async (req, res) => {
     }
 }
 
+
+// @desc Get a user 
+// @route GET /users/usereId
+// @access Private
+const getUser = async (req, res) => {
+    const id = await req.params.id
+    const user = await User.findById(id).exec()
+
+    if (user.length == 0) { res.status(404).fson( {message: "User not found"}) }
+
+    return res.json(user);
+}
+
+
 // @desc Update a user
 // @route PATCH /users
 // @access Private
@@ -125,6 +139,7 @@ const deleteUser = async (req, res) => {
 
 module.exports = {
     getAllUsers,
+    getUser,
     createNewUser,
     updateUser,
     deleteUser

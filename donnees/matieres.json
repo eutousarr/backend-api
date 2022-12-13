@@ -1,0 +1,327 @@
+[{
+  "_id": {
+    "$oid": "6390625a2506871ccaf54155"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "group": {
+    "$oid": "638cc4f9912a7ebc561cda7a"
+  },
+  "category": {
+    "$oid": "638cbdaf160fcef374e06e46"
+  },
+  "designation": "Tables bancs",
+  "completed": false,
+  "valdatedBy": "Principal",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670406746863"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670406746863"
+    }
+  },
+  "numero": 1
+},{
+  "_id": {
+    "$oid": "63906da9789b278b264edc2e"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "group": {
+    "$oid": "638cc4f9912a7ebc561cda7a"
+  },
+  "category": {
+    "$oid": "638cbdaf160fcef374e06e46"
+  },
+  "designation": "Bureau du Professeur",
+  "completed": false,
+  "valdatedBy": "Null",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670409641832"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670409641832"
+    }
+  },
+  "numero": 2
+},{
+  "_id": {
+    "$oid": "63906ddd789b278b264edc3c"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "group": {
+    "$oid": "638cc4f9912a7ebc561cda7a"
+  },
+  "category": {
+    "$oid": "638cbdaf160fcef374e06e46"
+  },
+  "designation": "Chaise du professeur",
+  "completed": false,
+  "valdatedBy": "Null",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670409693914"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670409693914"
+    }
+  },
+  "numero": 3
+},{
+  "_id": {
+    "$oid": "63906e0a789b278b264edc4d"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "group": {
+    "$oid": "638cc4f9912a7ebc561cda7a"
+  },
+  "category": {
+    "$oid": "638cbdaf160fcef374e06e46"
+  },
+  "designation": "Armoire de classe",
+  "completed": false,
+  "valdatedBy": "Null",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670409738939"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670409738939"
+    }
+  },
+  "numero": 4
+},{
+  "_id": {
+    "$oid": "63906e2e789b278b264edc61"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "group": {
+    "$oid": "638cc4f9912a7ebc561cda7a"
+  },
+  "category": {
+    "$oid": "63905e1c2506871ccaf54027"
+  },
+  "designation": "Bureau personnel",
+  "completed": false,
+  "valdatedBy": "Null",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670409774849"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670409774849"
+    }
+  },
+  "numero": 1
+},{
+  "_id": {
+    "$oid": "63906e54789b278b264edc77"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "group": {
+    "$oid": "638cc4f9912a7ebc561cda7a"
+  },
+  "category": {
+    "$oid": "63905e1c2506871ccaf54027"
+  },
+  "designation": "Chaise personnel",
+  "completed": false,
+  "valdatedBy": "Null",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670409812528"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670409812528"
+    }
+  },
+  "numero": 2
+},{
+  "_id": {
+    "$oid": "63906e75789b278b264edc91"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "group": {
+    "$oid": "638cc4f9912a7ebc561cda7a"
+  },
+  "category": {
+    "$oid": "63905e1c2506871ccaf54027"
+  },
+  "designation": "Armoire vitrée",
+  "completed": false,
+  "valdatedBy": "Null",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670409845174"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670409845174"
+    }
+  },
+  "numero": 3
+},{
+  "_id": {
+    "$oid": "63906eab789b278b264edcae"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "group": {
+    "$oid": "638cc4f9912a7ebc561cda7a"
+  },
+  "category": {
+    "$oid": "63905e1c2506871ccaf54027"
+  },
+  "designation": "Bureau semi ministre",
+  "completed": false,
+  "valdatedBy": "Null",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670409899031"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670409899031"
+    }
+  },
+  "numero": 4
+},{
+  "_id": {
+    "$oid": "63906ed2789b278b264edcce"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "group": {
+    "$oid": "638cc4f9912a7ebc561cda7a"
+  },
+  "category": {
+    "$oid": "63905e1c2506871ccaf54027"
+  },
+  "designation": "Fauteuil bureau",
+  "completed": false,
+  "valdatedBy": {
+    "$oid": "637e5bd1f7518e65ebd6aa55"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670409938978"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670409938978"
+    }
+  },
+  "numero": 5
+},{
+  "_id": {
+    "$oid": "63906ef2789b278b264edcf1"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "group": {
+    "$oid": "638cc4f9912a7ebc561cda7a"
+  },
+  "category": {
+    "$oid": "63905e1c2506871ccaf54027"
+  },
+  "designation": "Chaise visiteur",
+  "completed": false,
+  "valdatedBy": "Null",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670409970606"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670409970606"
+    }
+  },
+  "numero": 6
+},{
+  "_id": {
+    "$oid": "63906f31789b278b264edd17"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "group": {
+    "$oid": "638cc4f9912a7ebc561cda7a"
+  },
+  "category": {
+    "$oid": "63905e1c2506871ccaf54027"
+  },
+  "designation": "Table de conférence",
+  "completed": false,
+  "valdatedBy": "Null",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670410033074"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670410033074"
+    }
+  },
+  "numero": 7
+},{
+  "_id": {
+    "$oid": "63917d53f319a44d751a980f"
+  },
+  "user": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "group": {
+    "$oid": "638cc4f9912a7ebc561cda7b"
+  },
+  "category": {
+    "$oid": "63905fc22506871ccaf540ae"
+  },
+  "designation": "Règle",
+  "valdatedBy": "null",
+  "completed": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670479187727"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670479187727"
+    }
+  },
+  "numero": 1
+}]

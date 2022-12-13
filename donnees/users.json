@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "637e5bf6f7518e65ebd6aa5b"
+  },
+  "username": "sarr",
+  "password": "$2b$10$hSgcQ23OT.rpLFy0n5kmHuHMeekNv3jMRpuwPMLlZVUE4MjEHnzra",
+  "roles": [
+    "Manager"
+  ],
+  "active": true
+},{
+  "_id": {
+    "$oid": "637e85feccb1247db1ce62bb"
+  },
+  "username": "moha",
+  "password": "$2b$10$7aA9Y.9ZUGdPz6ukA7D4lez/00GEZOW4FW7c3RUGMZ3Ygs2OVsMQe",
+  "roles": [
+    "Employee"
+  ],
+  "active": false
+},{
+  "_id": {
+    "$oid": "637f64fa7bb35cb37a1d277d"
+  },
+  "username": "Admin",
+  "password": "$2b$10$vOs/JfV8nYPN7ywQQ.c8m.xQ2hznBftmt/e1xVeE0zXeezY32ss5q",
+  "roles": [
+    "Admin"
+  ],
+  "active": true
+}]
